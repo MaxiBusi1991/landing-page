@@ -1,0 +1,20 @@
+body {
+    background-color: F9F9F9;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.container {
+    background: linear-gradient(to bottom, #4F7097 , white);
+}
+
+
+
+.card-text {
+    
+}
