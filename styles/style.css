@@ -9,12 +9,11 @@ body {
 
 }
 
-.container {
+.container-fluid-card {
     background: linear-gradient(to bottom, #4F7097 , white);
 }
 
-
-
-.card-text {
-    
+footer {
+    height: 400px;
 }
+
